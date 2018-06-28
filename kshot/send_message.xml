@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MAS method="req_send_message_2">
+  <MessageType></MessageType>
+<MessageSubType></MessageSubType>
+  <CallbackNumber></CallbackNumber>
+<CustomMessageID></CustomMessageID>
+<Message> 
+     <ReceiveNumber seqNo=""></ReceiveNumber>
+     <Subject></Subject>
+     <Content></Content>
+   </Message> 
+</MAS>

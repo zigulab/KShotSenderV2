@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "kshot", "kshot\kshot.vcxproj", "{316BF8D0-B278-4BC7-9534-181BAE7AE5D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{316BF8D0-B278-4BC7-9534-181BAE7AE5D0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{316BF8D0-B278-4BC7-9534-181BAE7AE5D0}.Debug|Win32.Build.0 = Debug|Win32
+		{316BF8D0-B278-4BC7-9534-181BAE7AE5D0}.Release|Win32.ActiveCfg = Release|Win32
+		{316BF8D0-B278-4BC7-9534-181BAE7AE5D0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
